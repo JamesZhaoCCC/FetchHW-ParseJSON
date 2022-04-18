@@ -33,3 +33,6 @@ https://fetch-hiring.s3.amazonaws.com/mobile.html
 
 JSON Data URL:
 https://fetch-hiring.s3.amazonaws.com/hiring.json
+
+Git Clone URL:
+https://github.com/JamesZhaoCCC/FetchHW-ParseJSON.git
