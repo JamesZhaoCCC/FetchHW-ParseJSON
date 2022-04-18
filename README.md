@@ -2,11 +2,11 @@
 
 How to Run:
 
-The JSON is being parsed from A URL so make sure you have a stable internet connection.
+The JSON is being parsed from a URL so make sure you have a stable internet connection.
 Make sure to have the latest version of Android Studio installed.
 
 Run "git clone https://github.com/JamesZhaoCCC/FetchHW-ParseJSON.git" in your desired directory.
-You should recieve the project files and the readme.md files.
+You should receive the project files and the readme.md files.
 
 Run android studio and open the project files.
 
@@ -26,6 +26,8 @@ Mobile application to parse JSON file through a URL using Volley to make a reque
 and display the list of items in a multi-column listview grouped by listId and sorted by name.
 Filters out results where the name field is left blank and where the field says null.
 
+Assignment Details:
 https://fetch-hiring.s3.amazonaws.com/mobile.html
 
+JSON Data URL:
 https://fetch-hiring.s3.amazonaws.com/hiring.json
