@@ -25,6 +25,8 @@ Summary:
 Mobile application to parse JSON file through a URL using Volley to make a request
 and display the list of items in a multi-column listview grouped by listId and sorted by name.
 Filters out results where the name field is left blank and where the field says null.
+Program is written entirely in Java and uses the Volley library and internet connection.
+The data is parsed and displayed directly in the code and does not make any calls to a database.
 
 Assignment Details:
 https://fetch-hiring.s3.amazonaws.com/mobile.html
