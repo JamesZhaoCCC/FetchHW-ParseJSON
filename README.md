@@ -1,5 +1,12 @@
 # FetchHW-ParseJSON
 
+Issues:
+
+Application does not follow MVC
+
+Uses multiocolumn listview instead of the modern recyclerview
+
+
 How to Run:
 
 The JSON is being parsed from a URL so make sure you have a stable internet connection.
