@@ -1,13 +1,13 @@
-# FetchHW-ParseJSON
+## FetchHW-ParseJSON
 
-Issues:
+# Issues:
 
 Application does not follow MVC
 
 Uses multiocolumn listview instead of the modern recyclerview
 
 
-How to Run:
+# How to Run:
 
 The JSON is being parsed from a URL so make sure you have a stable internet connection.
 Make sure to have the latest version of Android Studio installed.
@@ -27,7 +27,7 @@ That's it. Your device will now be able to emulate the applications in Android S
 
 Once the application runs on the device, click the PARSE button to retrieve the data grouped by listId and ordered by the id.
 
-Summary:
+# Summary:
 
 Mobile application to parse JSON file through a URL using Volley to make a request
 and display the list of items in a multi-column listview grouped by listId and sorted by name.
@@ -35,11 +35,11 @@ Filters out results where the name field is left blank and where the field says 
 Program is written entirely in Java and uses the Volley library and internet connection.
 The data is parsed and displayed directly in the code and does not make any calls to a database.
 
-Assignment Details:
+# Assignment Details:
 https://fetch-hiring.s3.amazonaws.com/mobile.html
 
-JSON Data URL:
+# JSON Data URL:
 https://fetch-hiring.s3.amazonaws.com/hiring.json
 
-Git Clone URL:
+# Git Clone URL:
 https://github.com/JamesZhaoCCC/FetchHW-ParseJSON.git
